@@ -1,4 +1,4 @@
-## 🧩 **Projeto desenvolvido para estudo pessoal.**
+## 🧩 **Projeto desenvolvido para estudo pessoal.** [Projeto em desenvolvimento]
 
 ### 🎯 Desafio
 
